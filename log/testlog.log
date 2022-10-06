@@ -1,0 +1,142 @@
+2022-06-21 19:05:18,278 - Guru99 -INFO -Login Test is Started
+2022-06-21 19:05:24,104 - Guru99 -INFO -UserdId is Entered
+2022-06-21 19:05:24,260 - Guru99 -INFO -Password is Entered
+2022-06-21 19:05:24,774 - Guru99 -INFO -Login Button Clicked
+2022-06-21 19:07:20,636 - Guru99 -INFO -Login Test is Started
+2022-06-21 19:07:26,238 - Guru99 -INFO -UserdId is Entered
+2022-06-21 19:07:26,396 - Guru99 -INFO -Password is Entered
+2022-06-21 19:07:29,807 - Guru99 -INFO -Login Button Clicked
+2022-06-21 19:13:02,854 - Guru99 -INFO -Login Test is Started
+2022-06-21 19:13:09,044 - Guru99 -INFO -UserdId is Entered
+2022-06-21 19:13:09,183 - Guru99 -INFO -Password is Entered
+2022-06-21 19:13:11,556 - Guru99 -INFO -Login Button Clicked
+2022-06-21 19:13:11,573 - Guru99 -INFO -Test Case Failed
+2022-06-21 19:51:41,471 - Guru99 -INFO -Login Test is Started
+2022-06-21 19:51:47,439 - Guru99 -INFO -UserdId is Entered
+2022-06-21 19:51:47,607 - Guru99 -INFO -Password is Entered
+2022-06-21 19:51:51,237 - Guru99 -INFO -Login Button Clicked
+2022-06-21 19:51:51,254 - Guru99 -INFO -Test Case Passed
+2022-06-21 19:51:51,255 - Guru99 -INFO -Login Test is Compleated
+2022-06-21 19:59:13,040 - Guru99 -INFO -Login Test is Started
+2022-06-21 19:59:19,005 - Guru99 -INFO -UserdId is Entered
+2022-06-21 19:59:19,159 - Guru99 -INFO -Password is Entered
+2022-06-21 19:59:22,331 - Guru99 -INFO -Login Button Clicked
+2022-06-21 19:59:22,350 - Guru99 -INFO -Test Case Passed
+2022-06-21 19:59:22,351 - Guru99 -INFO -Login Test is Compleated
+2022-06-21 19:59:39,355 - Guru99 -INFO -Customer Link clicked
+2022-06-21 19:59:39,523 - Guru99 -INFO -Customer Name Entered
+2022-06-21 19:59:39,707 - Guru99 -INFO -Gender Clicked
+2022-06-21 19:59:39,865 - Guru99 -INFO -Date of Birth Entered
+2022-06-21 19:59:40,009 - Guru99 -INFO -Adress Entered
+2022-06-21 19:59:40,176 - Guru99 -INFO -City Entered
+2022-06-21 19:59:40,323 - Guru99 -INFO -State Entered
+2022-06-21 19:59:40,456 - Guru99 -INFO -Pin Code Entered
+2022-06-21 19:59:40,651 - Guru99 -INFO -Phone Number Entered
+2022-06-21 19:59:40,874 - Guru99 -INFO -Gmail Id Entered
+2022-06-21 19:59:41,452 - Guru99 -INFO -Submitt Button Clicked
+2022-06-21 20:00:58,328 - Guru99 -INFO -Login Test is Started
+2022-06-21 20:01:03,912 - Guru99 -INFO -UserdId is Entered
+2022-06-21 20:01:04,091 - Guru99 -INFO -Password is Entered
+2022-06-21 20:01:07,846 - Guru99 -INFO -Login Button Clicked
+2022-06-21 20:01:07,881 - Guru99 -INFO -Test Case Passed
+2022-06-21 20:01:07,883 - Guru99 -INFO -Login Test is Compleated
+2022-06-21 20:01:23,632 - Guru99 -INFO -Customer Link clicked
+2022-06-21 20:01:23,811 - Guru99 -INFO -Customer Name Entered
+2022-06-21 20:01:23,961 - Guru99 -INFO -Gender Clicked
+2022-06-21 20:01:24,104 - Guru99 -INFO -Date of Birth Entered
+2022-06-21 20:01:24,252 - Guru99 -INFO -Adress Entered
+2022-06-21 20:01:24,415 - Guru99 -INFO -City Entered
+2022-06-21 20:01:24,560 - Guru99 -INFO -State Entered
+2022-06-21 20:01:24,701 - Guru99 -INFO -Pin Code Entered
+2022-06-21 20:01:24,868 - Guru99 -INFO -Phone Number Entered
+2022-06-21 20:01:25,105 - Guru99 -INFO -Gmail Id Entered
+2022-06-21 20:01:26,113 - Guru99 -INFO -Submitt Button Clicked
+2022-06-23 22:01:16,227 - Guru99 -INFO -Login Test is Started
+2022-06-23 22:01:22,139 - Guru99 -INFO -UserdId is Entered
+2022-06-23 22:01:22,612 - Guru99 -INFO -Password is Entered
+2022-06-23 22:01:29,076 - Guru99 -INFO -Login Button Clicked
+2022-06-23 22:01:29,119 - Guru99 -INFO -Test Case Passed
+2022-06-23 22:01:29,121 - Guru99 -INFO -Login Test is Compleated
+2022-06-23 22:01:56,799 - Guru99 -INFO -Customer Link clicked
+2022-06-23 22:01:56,860 - Guru99 -INFO -Customer Name Entered
+2022-06-23 22:01:57,100 - Guru99 -INFO -Gender Clicked
+2022-06-23 22:01:57,141 - Guru99 -INFO -Date of Birth Entered
+2022-06-23 22:01:57,192 - Guru99 -INFO -Adress Entered
+2022-06-23 22:01:57,253 - Guru99 -INFO -City Entered
+2022-06-23 22:01:57,461 - Guru99 -INFO -State Entered
+2022-06-23 22:01:57,505 - Guru99 -INFO -Pin Code Entered
+2022-06-23 22:01:57,558 - Guru99 -INFO -Phone Number Entered
+2022-06-23 22:01:57,662 - Guru99 -INFO -Gmail Id Entered
+2022-06-23 22:01:58,622 - Guru99 -INFO -Submitt Button Clicked
+2022-07-04 13:18:47,958 - Guru99 -INFO -Login Test is Started
+2022-07-04 13:18:53,439 - Guru99 -INFO -UserdId is Entered
+2022-07-04 13:18:53,627 - Guru99 -INFO -Password is Entered
+2022-07-04 13:18:56,808 - Guru99 -INFO -Login Button Clicked
+2022-07-04 13:18:56,824 - Guru99 -INFO -Test Case Passed
+2022-07-04 13:18:56,826 - Guru99 -INFO -Login Test is Compleated
+2022-07-04 13:19:15,084 - Guru99 -INFO -Customer Link clicked
+2022-07-09 13:38:48,160 - Guru99 -INFO -Login Test is Started
+2022-07-09 13:38:53,990 - Guru99 -INFO -UserdId is Entered
+2022-07-09 13:38:54,460 - Guru99 -INFO -Password is Entered
+2022-07-09 13:38:56,878 - Guru99 -INFO -Login Button Clicked
+2022-07-09 13:38:56,894 - Guru99 -INFO -Test Case Passed
+2022-07-09 13:38:56,895 - Guru99 -INFO -Login Test is Compleated
+2022-07-09 13:39:11,942 - Guru99 -INFO -Customer Link clicked
+2022-07-09 13:54:43,684 - Guru99 -INFO -Login Test is Started
+2022-07-09 13:59:02,260 - Guru99 -INFO -Login Test is Started
+2022-07-09 13:59:07,211 - Guru99 -INFO -UserdId is Entered
+2022-07-09 13:59:08,148 - Guru99 -INFO -Password is Entered
+2022-07-09 13:59:10,484 - Guru99 -INFO -Login Button Clicked
+2022-07-09 13:59:10,506 - Guru99 -INFO -Test Case Passed
+2022-07-09 13:59:10,510 - Guru99 -INFO -Login Test is Compleated
+2022-07-26 11:38:41,974 - Guru99 -INFO -Login Test is Started
+2022-07-26 11:38:43,951 - Guru99 -INFO -UserdId is Entered
+2022-07-26 11:38:44,191 - Guru99 -INFO -Password is Entered
+2022-07-26 11:38:44,760 - Guru99 -INFO -Login Button Clicked
+2022-07-26 11:40:33,883 - Guru99 -INFO -Login Test is Started
+2022-07-26 11:40:35,807 - Guru99 -INFO -UserdId is Entered
+2022-07-26 11:40:36,268 - Guru99 -INFO -Password is Entered
+2022-07-26 11:40:37,316 - Guru99 -INFO -Login Button Clicked
+2022-07-26 11:42:17,806 - Guru99 -INFO -Login Test is Started
+2022-07-26 11:42:19,476 - Guru99 -INFO -UserdId is Entered
+2022-07-26 11:42:19,683 - Guru99 -INFO -Password is Entered
+2022-07-26 11:42:23,177 - Guru99 -INFO -Login Button Clicked
+2022-07-26 11:42:23,191 - Guru99 -INFO -Test Case Failed
+2022-08-02 16:23:18,465 - Guru99 -INFO -Login Test is Started
+2022-08-02 19:07:13,307 - Guru99 -INFO -Login Test is Started
+2022-08-02 19:07:13,756 - Guru99 -INFO -UserdId is Entered
+2022-08-02 19:07:15,310 - Guru99 -INFO -Password is Entered
+2022-08-02 19:07:17,730 - Guru99 -INFO -Login Button Clicked
+2022-08-02 19:07:17,743 - Guru99 -INFO -Test Case Failed
+2022-08-16 19:08:58,470 - Guru99 -INFO -Login Test is Started
+2022-08-16 19:09:01,917 - Guru99 -INFO -User Name entered
+2022-08-16 19:09:02,066 - Guru99 -INFO -Password entered
+2022-08-16 19:09:03,066 - Guru99 -INFO -login button clicked
+2022-08-16 19:09:12,136 - Guru99 -INFO -Login Test is Started
+2022-08-16 19:09:15,568 - Guru99 -INFO -User Name entered
+2022-08-16 19:09:15,702 - Guru99 -INFO -Password entered
+2022-08-16 19:09:19,253 - Guru99 -INFO -login button clicked
+2022-08-16 19:09:28,762 - Guru99 -INFO -Login Test is Started
+2022-08-16 19:09:31,911 - Guru99 -INFO -User Name entered
+2022-08-16 19:09:32,055 - Guru99 -INFO -Password entered
+2022-08-16 19:09:33,035 - Guru99 -INFO -login button clicked
+2022-08-16 19:09:41,635 - Guru99 -INFO -Login Test is Started
+2022-08-16 19:09:44,803 - Guru99 -INFO -User Name entered
+2022-08-16 19:09:44,960 - Guru99 -INFO -Password entered
+2022-08-16 19:09:45,931 - Guru99 -INFO -login button clicked
+2022-08-20 12:14:30,476 - Guru99 -INFO -Login Test is Started
+2022-08-20 12:14:34,211 - Guru99 -INFO -User Name entered
+2022-08-20 12:14:34,350 - Guru99 -INFO -Password entered
+2022-08-20 12:14:35,384 - Guru99 -INFO -login button clicked
+2022-08-20 12:14:43,864 - Guru99 -INFO -Login Test is Started
+2022-08-20 12:14:47,058 - Guru99 -INFO -User Name entered
+2022-08-20 12:14:47,190 - Guru99 -INFO -Password entered
+2022-08-20 12:14:48,189 - Guru99 -INFO -login button clicked
+2022-08-20 12:14:56,970 - Guru99 -INFO -Login Test is Started
+2022-08-20 12:15:00,136 - Guru99 -INFO -User Name entered
+2022-08-20 12:15:00,268 - Guru99 -INFO -Password entered
+2022-08-20 12:15:01,237 - Guru99 -INFO -login button clicked
+2022-08-20 12:15:09,412 - Guru99 -INFO -Login Test is Started
+2022-08-20 12:15:12,574 - Guru99 -INFO -User Name entered
+2022-08-20 12:15:12,740 - Guru99 -INFO -Password entered
+2022-08-20 12:15:13,740 - Guru99 -INFO -login button clicked
